@@ -1,7 +1,4 @@
-## My suggestions
-
-Good job forking the template into your account.
-
-Your resume is still showing the deafult Brigham Young example. You should update to use **your own information**.
-- First point
-- Second point
+## My Feedback
+Hey, you should probably update the template resume so it doesn't say "Brigham Young" anymore.
+- first point
+- second point
