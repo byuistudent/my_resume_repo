@@ -1,1 +1,0 @@
-Hey, this resume looks just like the template so I guess you have a lot to do before Saturday.
