@@ -2,7 +2,7 @@
 layout: cv
 title: Brigham Young's Resume
 ---
-# Katie Larson
+# BYUI Student
 blah blah blah
 
 <div id="webaddress">
